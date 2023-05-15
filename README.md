@@ -1,3 +1,3 @@
-# JavascriptProjects-
+# HTML-
 
-a few projects Ive worked on when learning Javascript 
+a few projects Ive worked on when learning HTML
